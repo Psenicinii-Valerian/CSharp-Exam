@@ -1,0 +1,9 @@
+1 Tesla Model_X USA black automatic 33333 2018 True 1 2
+2 BMW F-150 Germany red manual 20000 2020 True
+3 Tesla Model_T USA red manual 33333 2021 True 3
+4 Volkswagen Golf_GTI Germany black manual 40000 2021 False 16
+5 Porche Tycan Germany yellow automatic 50000 2022 False 17 18
+6 Mitsubishi Lancer Japan red manual 60000 2020 False 19
+7 Hyndai Civic Coreea blue manual 40000 2021 True 20
+8 Porsche Panamera The_Netherlands blue automatic 60000 2019 True 21 22
+9 Toyota Prius Japan red manual 144444 2021 False 33
